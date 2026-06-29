@@ -1,0 +1,2 @@
+Alert Name,IP Address,Attempts,Severity,MITRE ID
+Brute Force Attack,192.168.1.10,3,High,T1110
