@@ -89,6 +89,18 @@ streamlit run dashboard.py
 
 ---
 
+<img width="1920" height="1080" alt="DASHBOARD" src="https://github.com/user-attachments/assets/bcf23ef7-cccc-4580-8f29-34f535322324" />
+
+<img width="1920" height="1080" alt="LOGS" src="https://github.com/user-attachments/assets/28c36dae-04f6-441b-b86c-c0cfd377878d" />
+
+<img width="1920" height="1080" alt="MITRE" src="https://github.com/user-attachments/assets/77f375cf-596f-45f3-8e0d-8867e6c3e169" />
+
+<img width="1920" height="1080" alt="WINDOWS EVENTS" src="https://github.com/user-attachments/assets/63c0cb67-ef19-4d22-aca6-f1ec86357479" />
+
+
+
+
+
 ## 👨‍💻 Author
 
 **Shiv Kumar Maurya**
